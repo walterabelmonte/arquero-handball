@@ -1,0 +1,14 @@
+{
+  "name": "Arquero Handball 2.0 - Estadística y productividad",
+  "short_name": "Arquero HB 2.0",
+  "description": "Seguimiento y estadísticas de arqueros de handball",
+  "lang": "es-AR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1f3a",
+  "theme_color": "#0b1f3a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
